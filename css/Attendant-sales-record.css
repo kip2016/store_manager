@@ -1,0 +1,43 @@
+body{
+    background-color: azure;
+    margin:0px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+hr{
+    border: 1px solid chocolate;
+}
+h2{
+    color:chocolate;
+    text-align: center;
+}
+.header{
+    background: blue;
+    width:100%;
+    margin-top: 0px;
+    height: 40px;
+    padding: 20px;
+    
+}
+h1{
+    color:white;
+    text-align: center;
+    
+}
